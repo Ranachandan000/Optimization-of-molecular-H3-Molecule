@@ -20,3 +20,11 @@ Predicting the most stable arrangement of atoms in a molecule is a crucial task 
 ### Step 5: Gradient Descent Optimization
    - Apply gradient descent optimization techniques to the cost function.
    - By taking the gradient of the cost function, iteratively adjust the parameters to minimize the energy and arrive at the most stable configuration.
+
+
+
+### References :
+   - https://pennylane.ai/qml/demos/tutorial_vqe/#seeley2012
+   - https://pennylane.ai/qml/demos/tutorial_quantum_chemistry/
+   - https://pennylane.ai/qml/demos/tutorial_givens_rotations/
+   - https://pennylane.ai/qml/demos/tutorial_mol_geo_opt/
